@@ -1,0 +1,22 @@
+{
+  "name": "react-native-swipeout-longpressforandroid",
+  "version": "1.0.4",
+  "description": "Android native behavior(Long press) extention for Swipeout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "action sheet",
+    "swipeout",
+    "swipe"
+  ],
+  "author": "Bright Lee <benevbright@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native": "*",
+    "react-native-swipeout": "*",
+    "react-native-actionsheet": "*"
+  }
+}
