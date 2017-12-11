@@ -1,9 +1,9 @@
 
 # react-native-swipeout-longpressforandroid
 
-Long press Android behavior added with using awesome Action Sheet libarary on awesome Swipeout library.
+Long press Android behavior added with using awesome [Action Sheet](https://www.npmjs.com/package/react-native-actionsheet) libarary on awesome [Swipeout](https://www.npmjs.com/package/react-native-swipeout) library.
 
-[react-native-swipeout-longpressforandroid](https://i.imgur.com/PZkNQqD.mp4)
+[react-native-swipeout-longpressforandroid](https://i.imgur.com/DrA7TYX.gifv)
 
 ## Getting started
 
@@ -12,7 +12,7 @@ Long press Android behavior added with using awesome Action Sheet libarary on aw
 
 ## Manual installation
 
-Jus replace your previous code. That's it.
+Just replace your current code like below. That's it.
 
 ```
 //import Swipeout from 'react-native-swipeout';
@@ -28,3 +28,7 @@ Jus replace your previous code. That's it.
 </LongPressForAndroidSwipeout>
 ```
 
+
+## Contribution
+
+I'm very new to React Native and Javascript. So I need your help. Please feel free to make this together.
