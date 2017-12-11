@@ -62,7 +62,7 @@ export default class SwipeOutLongPressForAndroid extends React.Component{
             {
                 newchildren = React.Children.map(this.props.children, (child) => {
                     // console.log('child : ', child.type.displayName);
-                    return React.cloneElement(child, {onLongPress:this.showActionSheet});
+                    return React.cloneElement(child, {onLongPress:this.showActionSheet, style:[this.props.style, child.props.style]});
                 });                    
                 newchildren.key = 'newchildren';
                 return [newchildren, actionsheet]
