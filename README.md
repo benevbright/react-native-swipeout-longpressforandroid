@@ -6,6 +6,7 @@ I added Long press Android behavior with using awesome [Action Sheet](https://ww
 Because "Swipe to delete" action is not compatible for Android since it has horizontal scrollable tab navigation.
 
 Now it works like this.
+
 ![react-native-swipeout-longpressforandroid](http://i.imgur.com/DrA7TYX.gif)
 
 ## Getting started
