@@ -83,8 +83,8 @@ export default class SwipeOutLongPressForAndroid extends React.Component{
 
 
 ActionSheet.propTypes = {
+	AndroidTitle: PropTypes.string,
 	AndroidCancelbuttonTitle: PropTypes.string,
 	AndroidTextColor: PropTypes.string,
-    AndroidDestructiveButtonIndex: PropTypes.number,
-    AndroidCancelbuttonTitle: PropTypes.string
+    AndroidDestructiveButtonIndex: PropTypes.number
 }

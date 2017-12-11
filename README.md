@@ -32,6 +32,18 @@ Just replace your current code like below. That's it.
 </LongPressForAndroidSwipeout>
 ```
 
+## Usage
+
+Swipeout-LongPressforAndroid is extension of Swipeout, so please look documentation for basic usage from [Swipeout](https://github.com/dancormier/react-native-swipeout).
+
+#### Props for Android
+
+| Property      | Type          | Default             | Description |
+| ------------- |:-------------:|:------------:       | ----------- |
+| AndroidTitle | string | | Title for question on top. If it's not assigned, question will not be shown. |
+| AndroidCancelbuttonTitle | string | "Cancel" | Title for cancel button. |
+| AndroidTextColor | string | | Button title color for normal button except destructive button. |
+| AndroidDestructiveButtonIndex | number | | Button on this index will go with red color.  |
 
 ## Contribution
 
