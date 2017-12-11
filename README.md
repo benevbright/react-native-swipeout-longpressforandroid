@@ -3,7 +3,7 @@
 
 Long press Android behavior added with using awesome Action Sheet libarary on awesome Swipeout library.
 
-![longpressforandroidswipeout preview](https://imgur.com/PZkNQqD)
+[img]https://i.imgur.com/PZkNQqD.mp4[/img]
 
 ## Getting started
 
