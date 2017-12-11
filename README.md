@@ -3,7 +3,7 @@
 
 Long press Android behavior added with using awesome Action Sheet libarary on awesome Swipeout library.
 
-[img]https://i.imgur.com/PZkNQqD.mp4[/img]
+[react-native-swipeout-longpressforandroid](https://i.imgur.com/PZkNQqD.mp4)
 
 ## Getting started
 
