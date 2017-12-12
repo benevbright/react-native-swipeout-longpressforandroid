@@ -1,6 +1,6 @@
 {
   "name": "react-native-swipeout-longpressforandroid",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Android native behavior(Long press) extension for Swipeout",
   "main": "index.js",
   "scripts": {
