@@ -18,8 +18,11 @@
   ],
   "author": "Bright Lee <benevbright@gmail.com>",
   "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
   "dependencies": {
-    "react-native": "*",
     "react-native-swipeout": "*",
     "react-native-actionsheet": "*"
   },
